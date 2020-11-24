@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1GameStore", "3.1GameStore\3.1GameStore.csproj", "{497CED5D-215F-43A8-88BE-8B53E1077E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497CED5D-215F-43A8-88BE-8B53E1077E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497CED5D-215F-43A8-88BE-8B53E1077E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497CED5D-215F-43A8-88BE-8B53E1077E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497CED5D-215F-43A8-88BE-8B53E1077E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

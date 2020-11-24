@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{497CED5D-215F-43A8-88BE-8B53E1077E7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3.1GameStore/Program.cs">
+    <Files>
+      <File FileName="3.1GameStore/Program.cs" Line="12" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.3.1GameStore PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
